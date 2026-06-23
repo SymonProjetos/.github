@@ -52,19 +52,19 @@ Abaixo, as tecnologias que utilizo no desenvolvimento das minhas soluções:
 *Projeto Acadêmico (PUC MINAS - 2º Período)*
 *   **Descrição:** Aplicação web para gestão de cursos online. O sistema foi desenhado para facilitar e otimizar o relacionamento e a interação entre alunos, instrutores e o conteúdo educacional.
 *   **Tecnologias:** C#, ASP.NET Core MVC.
-*   **Repositório:** [SymonSL7/SaberMais](https://github.com/SymonSL7/SaberMais)
+*   **Repositório:** [SymonProjetos/SaberMais](https://github.com/SymonProjetos/SaberMais)
 
 #### 📦 Controle de Estoque Full-Stack
 *Aplicação Real*
 *   **Descrição:** Sistema Web desenvolvido para gerenciar e otimizar o fluxo do meu e-commerce. A aplicação possui uma arquitetura enxuta e transacional, onde todas as movimentações de inventário ficam rigorosamente armazenadas e centralizadas nas tabelas do banco de dados para segurança e consulta, dispensando a necessidade de módulos pesados de relatórios analíticos.
 *   **Tecnologias:** Angular, PHP, Symfony.
-*   **Repositório:** [SymonSL7/controle-estoque-full-stack](https://github.com/SymonSL7/controle-estoque-full-stack)
+*   **Repositório:** [SymonProjetos/controle-estoque-full-stack](https://github.com/SymonProjetos/controle-estoque-full-stack)
 
 #### 👕 Vestindo Esperança
 *Projeto Acadêmico (PUC MINAS - 1º Período)*
 *   **Descrição:** Construção da interface de usuário (Front-End) de uma aplicação Web como projeto interdisciplinar de introdução ao desenvolvimento.
 *   **Tecnologias:** HTML, CSS, JavaScript.
-*   **Repositório:** [SymonSL7/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo)
+*   **Repositório:** [SymonProjetos/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonProjetos/VestindoEsperancaPucMinas1Periodo)
 
 ---
 
