@@ -1,111 +1,87 @@
-<h1 align="center">Symon Projetos | Portfólio de Engenharia de Software 💻</h1>
+<h1 align="center">Olá! Sou Symon Silva Lima 👋</h1>
 
 <p align="center">
-  <em>Desenvolvimento Full-Stack • Ecossistema .NET • Soluções Web e Mobile</em>
+  <strong>Estagiário de Desenvolvimento | Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas)</strong><br>
+  <em>Contagem, MG</em>
 </p>
 
-###
-
-<h2 align="left">🚀 Resumo Profissional</h2>
-
-<p align="left">
-  Sou um profissional de tecnologia em transição para a área de Desenvolvimento de Software, unindo minha base em Suporte e Infraestrutura de TI com a construção de aplicações modernas. Sou Técnico em Informática pelo SENAI e atualmente graduando em Análise e Desenvolvimento de Sistemas pela PUC Minas.
-  <br><br>
-  Meu foco principal é a criação de sistemas escaláveis e eficientes, atuando em toda a stack: desde a modelagem de bancos de dados relacionais e construção de APIs robustas (especialmente com C#/.NET e PHP), até a interface do usuário com Angular, React e JavaScript puro. Busco sempre construir códigos limpos e aplicar boas práticas de engenharia de software.
-</p>
-
-###
-
-<h2 align="left">🛠️ Stack Tecnológica</h2>
-
-<p align="left">Ferramentas e tecnologias que utilizo para construir soluções:</p>
-
-#### Front-end & Mobile
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react" />
-</div>
-
-#### Back-end & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="dotnet" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs" />
-</div>
-
-#### Banco de Dados & Infraestrutura
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="sqlserver" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker" />
-</div>
-
-###
-
-<h2 align="left">📂 Projetos em Destaque</h2>
-
-#### 📦 Controle de Estoque Full-Stack
-- **Descrição:** Aplicação Web focada na otimização de gestão de e-commerce. A arquitetura foi desenhada para ser transacional e enxuta, garantindo que todas as movimentações de inventário fiquem rigorosamente armazenadas e centralizadas no banco de dados para auditoria, sem depender de módulos pesados de geração de relatórios analíticos.
-- **Tecnologias:** Angular (Front-end), PHP e Symfony (Back-end).
-- **Repositório:** [SymonSL7/controle-estoque-full-stack](https://github.com/SymonSL7/controle-estoque-full-stack)
-
-#### 🎓 Saber+ (Plataforma Educacional)
-- **Descrição:** Plataforma colaborativa de educação online focada no compartilhamento de conhecimento, desenvolvida com ênfase no ecossistema Microsoft.
-- **Tecnologias:** C#, ASP.NET Core MVC, Entity Framework Core e Bootstrap.
-
-#### 📱 ShopSmart
-- **Descrição:** Projeto acadêmico mobile desenvolvido para a otimização de processos do usuário, focando na experiência em dispositivos móveis.
-- **Tecnologias:** React Native e Expo.
-
-#### 👕 Vestindo Esperança (PUC Minas)
-- **Descrição:** Desenvolvimento do front-end de uma aplicação Web como projeto interdisciplinar do curso de Análise e Desenvolvimento de Sistemas.
-- **Tecnologias:** HTML, CSS e JavaScript.
-- **Repositório:** [SymonSL7/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo)
-
-###
-
-<h2 align="left">📊 Estatísticas Globais do Desenvolvedor</h2>
-
-<p align="left"><i>*Refletindo atividades do perfil principal (SymonSL7) e contribuições gerais.</i></p>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=symonsl7&show_icons=true&locale=en&theme=radical" alt="symonsl7 stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=symonsl7&show_icons=true&locale=en&layout=compact&theme=radical" alt="symonsl7 top languages" />
-</div>
-
-<br>
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SymonSL7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-
-###
-
-<h2 align="center">📫 Conecte-se Comigo</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/symonsilvalima/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/symonsilvalima" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:symon.silva.lima@hotmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/SymonSL7" target="_blank">
-    <img src="https://img.shields.io/badge/-Perfil_Pessoal-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://symonsl7.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio_Web-%23181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-</div>
+  <a href="https://wa.me/5531991214533" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
-###
+---
+
+### 🎯 Objetivo Profissional
+
+Sou Técnico em Desenvolvimento de Sistemas e atual estudante de Análise e Desenvolvimento de Sistemas. Possuo um forte background em Suporte de TI (Infraestrutura, Windows Server, Redes), o que me proporcionou uma excelente capacidade de resolução de problemas e visão sistêmica.
+
+Atualmente, busco uma oportunidade de estágio em desenvolvimento de software. Tenho me aprofundado na criação de projetos reais e acadêmicos, atuando de forma Full-Stack com foco no ecossistema **.NET (C#)** no Back-End e **React Native / TypeScript** no Front-End e Mobile.
+
+---
+
+### 💻 Habilidades Técnicas
+
+Abaixo, as tecnologias que utilizo no desenvolvimento das minhas soluções:
+
+*   **Back-End:** C#, .NET Framework, ASP.NET Core MVC, PHP, Symfony.
+*   **Front-End & Mobile:** HTML5, CSS3, JavaScript, TypeScript, Angular, React Native.
+*   **Ferramentas & Infraestrutura:** Git, GitHub, Windows Server, Active Directory.
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 📱 ShopSmart
+*Projeto Acadêmico (PUC MINAS - 3º Período)*
+*   **Descrição:** Desenvolvimento do Front-End Mobile de um aplicativo voltado para a colaboração e comparação de preços em supermercados locais, focando em uma interface fluida e intuitiva.
+*   **Tecnologias:** React Native, Expo, JavaScript.
+*   **Repositório:** [SymonProjetos/ShopSmart](https://github.com/SymonProjetos/ShopSmart)
+
+#### 🎓 Saber+
+*Projeto Acadêmico (PUC MINAS - 2º Período)*
+*   **Descrição:** Aplicação web para gestão de cursos online. O sistema foi desenhado para facilitar e otimizar o relacionamento e a interação entre alunos, instrutores e o conteúdo educacional.
+*   **Tecnologias:** C#, ASP.NET Core MVC.
+*   **Repositório:** [SymonSL7/SaberMais](https://github.com/SymonSL7/SaberMais)
+
+#### 📦 Controle de Estoque Full-Stack
+*Aplicação Real*
+*   **Descrição:** Sistema Web desenvolvido para gerenciar e otimizar o fluxo do meu e-commerce. A aplicação possui uma arquitetura enxuta e transacional, onde todas as movimentações de inventário ficam rigorosamente armazenadas e centralizadas nas tabelas do banco de dados para segurança e consulta, dispensando a necessidade de módulos pesados de relatórios analíticos.
+*   **Tecnologias:** Angular, PHP, Symfony.
+*   **Repositório:** [SymonSL7/controle-estoque-full-stack](https://github.com/SymonSL7/controle-estoque-full-stack)
+
+#### 👕 Vestindo Esperança
+*Projeto Acadêmico (PUC MINAS - 1º Período)*
+*   **Descrição:** Construção da interface de usuário (Front-End) de uma aplicação Web como projeto interdisciplinar de introdução ao desenvolvimento.
+*   **Tecnologias:** HTML, CSS, JavaScript.
+*   **Repositório:** [SymonSL7/VestindoEsperancaPucMinas1Periodo](https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo)
+
+---
+
+### 💼 Experiência Profissional Resumida
+
+Acredito que um bom desenvolvedor também é formado por suas vivências de negócios e resolução de problemas na infraestrutura:
+
+*   **Gestor de E-commerce (Autônomo):** Gestão completa do ciclo de operações de 4 lojas virtuais (Mercado Livre, Shopee, Magalu), incluindo a criação de lógicas em planilhas para otimização do negócio.
+*   **Técnico em Suporte de TI (ATMC Consultoria / FC Informática):** Forte vivência corporativa com gestão de Active Directory, Windows Server, redes, backup, firewall e atendimento direto ao usuário, desenvolvendo comunicação clara e resiliência técnica.
+
+---
+
+### 🎓 Formação Acadêmica
+
+*   **Análise e Desenvolvimento de Sistemas** | PUC Minas *(Cursando o 3º Período)*
+*   **Técnico em Desenvolvimento de Sistemas** | Senai Fatec BH *(Concluído)*
+
+<div align="center">
+  <p><i>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</i></p>
+</div>
