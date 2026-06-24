@@ -34,9 +34,9 @@ Atualmente, busco uma oportunidade de estágio em desenvolvimento de software. T
 
 Abaixo, as tecnologias que utilizo no desenvolvimento das minhas soluções:
 
-*   **Back-End:** C#, .NET Framework, ASP.NET Core MVC, PHP, Symfony.
+*   **Back-End:** C#, .NET Framework, ASP.NET Core MVC.
 *   **Front-End & Mobile:** HTML5, CSS3, JavaScript, TypeScript, Angular, React Native.
-*   **Ferramentas & Infraestrutura:** Git, GitHub, Windows Server, Active Directory.
+*   **Ferramentas & Infraestrutura:** Git, GitHub, Expo GO, Windows Server, Active Directory.
 
 ---
 
