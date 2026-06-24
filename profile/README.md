@@ -70,7 +70,9 @@ Abaixo, as tecnologias que utilizo no desenvolvimento das minhas soluções:
 
 ### GitHub Geral Com Projetos e Atividades De Estudos/Cursos
 
-[SymonSL7](https://github.com/SymonSL7?tab=repositories)
+<a href="https://github.com/SymonSL7?tab=repositories" target="_blank">
+  SymonSL7
+</a>
 
 ---
 
