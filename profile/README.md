@@ -68,6 +68,12 @@ Abaixo, as tecnologias que utilizo no desenvolvimento das minhas soluções:
 
 ---
 
+### GitHub Geral Com Projetos e Atividades De Estudos/Cursos
+
+[SymonSL7](https://github.com/SymonSL7?tab=repositories)
+
+---
+
 ### 💼 Experiência Profissional Resumida
 
 Acredito que um bom desenvolvedor também é formado por suas vivências de negócios e resolução de problemas na infraestrutura:
